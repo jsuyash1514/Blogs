@@ -195,3 +195,7 @@ public Operation cancelWorkById(UUID id)
 void ListenableWorker onStopped()
 ListenableFuture.cancel();
 ```
+
+## SOURCES
+
+* [Work Manager](https://developer.android.com/reference/androidx/work/WorkManager)
